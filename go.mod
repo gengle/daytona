@@ -1,6 +1,6 @@
 module github.com/daytonaio/daytona
 
-go 1.21.6
+go 1.23.0
 
 require (
 	github.com/charmbracelet/bubbles v0.17.1
@@ -31,7 +31,7 @@ require (
 	github.com/swaggo/swag v1.16.3
 	golang.org/x/crypto v0.19.0
 	golang.org/x/mod v0.14.0
-	golang.org/x/oauth2 v0.16.0
+	golang.org/x/oauth2 v0.27.0
 	golang.org/x/term v0.17.0
 	google.golang.org/grpc v1.60.1
 	google.golang.org/protobuf v1.33.0
@@ -201,7 +201,6 @@ require (
 	golang.org/x/tools v0.16.0 // indirect
 	golang.zx2c4.com/wintun v0.0.0-20230126152724-0fa3db229ce2 // indirect
 	golang.zx2c4.com/wireguard/windows v0.5.3 // indirect
-	google.golang.org/appengine v1.6.8 // indirect
 	google.golang.org/genproto v0.0.0-20231211222908-989df2bf70f3 // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20231127180814-3a041ad873d4 // indirect
 	gopkg.in/ini.v1 v1.67.0 // indirect
