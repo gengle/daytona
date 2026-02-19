@@ -40,7 +40,7 @@ require (
 )
 
 require (
-	filippo.io/edwards25519 v1.0.0 // indirect
+	filippo.io/edwards25519 v1.1.1 // indirect
 	github.com/Azure/go-ntlmssp v0.0.0-20200615164410-66371956d46c // indirect
 	github.com/KyleBanks/depth v1.2.1 // indirect
 	github.com/akutz/memconn v0.1.0 // indirect
