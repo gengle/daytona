@@ -1,6 +1,6 @@
 module github.com/daytonaio/daytona
 
-go 1.21.6
+go 1.24
 
 require (
 	github.com/charmbracelet/bubbles v0.17.1
@@ -41,7 +41,7 @@ require (
 
 require (
 	filippo.io/edwards25519 v1.0.0 // indirect
-	github.com/Azure/go-ntlmssp v0.0.0-20200615164410-66371956d46c // indirect
+	github.com/Azure/go-ntlmssp v0.1.1 // indirect
 	github.com/KyleBanks/depth v1.2.1 // indirect
 	github.com/akutz/memconn v0.1.0 // indirect
 	github.com/alexbrainman/sspi v0.0.0-20231016080023-1a75b4708caa // indirect
