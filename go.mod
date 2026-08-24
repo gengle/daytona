@@ -15,7 +15,7 @@ require (
 	github.com/gliderlabs/ssh v0.3.6
 	github.com/go-playground/validator/v10 v10.18.0
 	github.com/google/uuid v1.5.0
-	github.com/gorilla/websocket v1.5.1
+	github.com/gorilla/websocket v1.5.3
 	github.com/hashicorp/go-hclog v1.5.0
 	github.com/hashicorp/go-plugin v1.6.0
 	github.com/juanfont/headscale v0.23.0-alpha3
